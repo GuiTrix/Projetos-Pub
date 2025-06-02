@@ -1,3 +1,5 @@
+#Crie um programa que calcule as médias anuais!
+
 bi1 = float(input("Digite sua nota do primeiro bimestre: "))
 bi2 = float(input("Digite sua nota do segundo bimestre: "))
 bi3 = float(input("Digite sua nota do terceiro bimestre: "))
